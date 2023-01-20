@@ -22,8 +22,14 @@ mysplit.c	# Forks a child that spins for <n> seconds
 mystop.c        # Spins for <n> seconds and sends SIGTSTP to itself
 myint.c         # Spins for <n> seconds and sends SIGINT to itself
 
-
+---
 
 参考
 
-https://blog.csdn.net/longzaizai_/article/details/124972640
+（感谢郭老师救我狗命）
+
+https://www.bilibili.com/video/BV1yA4y1D7Gf
+
+---
+
+做的稀里糊涂的，有机会再看一遍吧
